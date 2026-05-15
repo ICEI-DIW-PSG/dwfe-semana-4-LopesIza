@@ -10,7 +10,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Informações Gerais
 
 - Nome: Izabelle Lopes
-- Matricula: 916230
+- Matricula: 1916230
 - Proposta de projeto escolhida: Temas e Conteúdos Associados
 - Breve descrição sobre seu projeto: O projeto Psicologia para Todos é uma aplicação web voltada para saúde mental, permitindo que usuários encontrem psicólogos, realizem agendamentos online e tenham acesso a conteúdos sobre bem-estar emocional.
 
@@ -26,3 +26,5 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+
+![Print da tela Home](public/home_page.png)

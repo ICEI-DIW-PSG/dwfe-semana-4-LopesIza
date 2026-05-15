@@ -39,9 +39,7 @@ body{
 }
 
 .banner{
-
-    background-image: url("https://picsum.photos/id/1040/1200/500");
-
+    
     background-size: cover;
     background-position: center;
 

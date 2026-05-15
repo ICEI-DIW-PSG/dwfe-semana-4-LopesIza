@@ -9,10 +9,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Izabelle Lopes
+- Matricula: 916230
+- Proposta de projeto escolhida: Temas e Conteúdos Associados
+- Breve descrição sobre seu projeto: O projeto Psicologia para Todos é uma aplicação web voltada para saúde mental, permitindo que usuários encontrem psicólogos, realizem agendamentos online e tenham acesso a conteúdos sobre bem-estar emocional.
 
 
 ## Print do(s) wireframe(s) criado
@@ -21,6 +21,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 <<  COLOQUE A IMAGEM AQUI >>
 
+![Tela do wireframe criada](public/wireframe.png)
 
 ## Print da home-page criada
 
